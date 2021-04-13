@@ -10,4 +10,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![emillindau's github stats](https://github-readme-stats.vercel.app/api?username=emillindau&theme=merko&layout=compact)
+![emillindau's github stats](https://github-readme-stats.vercel.app/api?username=emillindau&theme=synthwave&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emillindau&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
