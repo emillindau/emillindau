@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src='https://media.giphy.com/media/zVpkoDHbFaVBU8tv3U/giphy.gif' alt=""></img>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,4 +12,6 @@
 - ⚡ Fun fact: ...
 
 ![emillindau's github stats](https://github-readme-stats.vercel.app/api?username=emillindau&theme=synthwave&layout=compact)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emillindau&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
