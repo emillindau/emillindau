@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hello there 👋
 
 <img src='https://media.giphy.com/media/zVpkoDHbFaVBU8tv3U/giphy.gif' alt=""></img>
 
 - 🔭 I’m currently working at Mpya Digital
-- 🌱 I’m currently learning Go
+- 🌱 Currently learning Go and GDScript
 - 💬 Ask me about anything React or Javascript
-- 📫 How to reach me: -
+- 📫 How to reach me: emillindau@gmail.com or @emiljsl everywhere
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm not that funny though
+- ⚡ Fun fact: Builds keyboards for fun!
 
 ![emillindau's github stats](https://github-readme-stats.vercel.app/api?username=emillindau&theme=synthwave&layout=compact)
 
